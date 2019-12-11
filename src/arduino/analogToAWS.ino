@@ -1,6 +1,7 @@
 /* 
  *  analogToAWS.ino
  *  Arduino code for Balena-AWS-Arduino project
+ * 
  *  By Jack Carroll
 */
 #define SensorPin A0  // analog sensor pin

@@ -1,3 +1,10 @@
+##
+# Code modified from boilerplate written by Daniel Andrade
+# https://github.com/balena-io-playground/balena-aws-iot-mqtt-example
+#
+# By Jack Carroll
+##
+
 import time
 import os
 import base64
